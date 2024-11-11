@@ -106,3 +106,14 @@
     border-radius: 25px;
 }
 
+.usr_score {
+    display: flex;
+    justify-content: space-between;
+    gap: 10px;
+}
+
+.cpu_score {
+    display: flex;
+    justify-content: space-between;
+    gap: 10px;
+}
